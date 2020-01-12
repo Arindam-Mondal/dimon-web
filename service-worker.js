@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dimon-web/precache-manifest.ae372c396065fad7f359e2cd224a910b.js"
+  "/dimon-web/precache-manifest.e2bbddd75aecc965557e6bd7f4bbd88c.js"
 );
 
 self.addEventListener('message', (event) => {
