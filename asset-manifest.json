@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dimon-web/static/css/main.d1b05096.chunk.css",
+    "main.js": "/dimon-web/static/js/main.be5fc251.chunk.js",
+    "main.js.map": "/dimon-web/static/js/main.be5fc251.chunk.js.map",
+    "runtime-main.js": "/dimon-web/static/js/runtime-main.88800d5e.js",
+    "runtime-main.js.map": "/dimon-web/static/js/runtime-main.88800d5e.js.map",
+    "static/js/2.9eeae818.chunk.js": "/dimon-web/static/js/2.9eeae818.chunk.js",
+    "static/js/2.9eeae818.chunk.js.map": "/dimon-web/static/js/2.9eeae818.chunk.js.map",
+    "index.html": "/dimon-web/index.html",
+    "precache-manifest.ae372c396065fad7f359e2cd224a910b.js": "/dimon-web/precache-manifest.ae372c396065fad7f359e2cd224a910b.js",
+    "service-worker.js": "/dimon-web/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/dimon-web/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9eeae818.chunk.js.LICENSE": "/dimon-web/static/js/2.9eeae818.chunk.js.LICENSE",
+    "static/media/logo.svg": "/dimon-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88800d5e.js",
+    "static/js/2.9eeae818.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.be5fc251.chunk.js"
+  ]
+}
