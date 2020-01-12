@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dimon-web/static/css/main.c3cf1935.chunk.css",
+    "main.css": "/dimon-web/static/css/main.6cc558b1.chunk.css",
     "main.js": "/dimon-web/static/js/main.2ef1ee6c.chunk.js",
     "main.js.map": "/dimon-web/static/js/main.2ef1ee6c.chunk.js.map",
     "runtime-main.js": "/dimon-web/static/js/runtime-main.88800d5e.js",
@@ -8,16 +8,16 @@
     "static/js/2.9eeae818.chunk.js": "/dimon-web/static/js/2.9eeae818.chunk.js",
     "static/js/2.9eeae818.chunk.js.map": "/dimon-web/static/js/2.9eeae818.chunk.js.map",
     "index.html": "/dimon-web/index.html",
-    "precache-manifest.e2bbddd75aecc965557e6bd7f4bbd88c.js": "/dimon-web/precache-manifest.e2bbddd75aecc965557e6bd7f4bbd88c.js",
+    "precache-manifest.0bca4a2f4c351d6b7fe4ea9cdd0baf7b.js": "/dimon-web/precache-manifest.0bca4a2f4c351d6b7fe4ea9cdd0baf7b.js",
     "service-worker.js": "/dimon-web/service-worker.js",
-    "static/css/main.c3cf1935.chunk.css.map": "/dimon-web/static/css/main.c3cf1935.chunk.css.map",
+    "static/css/main.6cc558b1.chunk.css.map": "/dimon-web/static/css/main.6cc558b1.chunk.css.map",
     "static/js/2.9eeae818.chunk.js.LICENSE": "/dimon-web/static/js/2.9eeae818.chunk.js.LICENSE",
     "static/media/dimon-main.jpeg": "/dimon-web/static/media/dimon-main.dafd9d40.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.88800d5e.js",
     "static/js/2.9eeae818.chunk.js",
-    "static/css/main.c3cf1935.chunk.css",
+    "static/css/main.6cc558b1.chunk.css",
     "static/js/main.2ef1ee6c.chunk.js"
   ]
 }
