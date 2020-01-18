@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+/* Smartphones (portrait) ---------- */
+@media screen and (max-width: 320px){
+  .App {
+      font-size: x-small;
+  }
+}
+/* Smartphones (landscape) ---------- */
+@media screen and (min-width: 321px){
+  .App {
+      font-size: x-small;
+  }
+}
+
+/* Tablets, iPads (portrait) ---------- */
+@media screen and (min-width: 768px){
+  .App {
+      font-size: small;
+  }
+}
+/* Tablets, iPads (landscape) ---------- */
+@media screen and (min-width: 1024px){
+  .App {
+      font-size: large;
+  }
+}
