@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/dimon-web/static/css/main.6cc558b1.chunk.css",
-    "main.js": "/dimon-web/static/js/main.2ef1ee6c.chunk.js",
-    "main.js.map": "/dimon-web/static/js/main.2ef1ee6c.chunk.js.map",
+    "main.css": "/dimon-web/static/css/main.52d36d32.chunk.css",
+    "main.js": "/dimon-web/static/js/main.580c6c94.chunk.js",
+    "main.js.map": "/dimon-web/static/js/main.580c6c94.chunk.js.map",
     "runtime-main.js": "/dimon-web/static/js/runtime-main.88800d5e.js",
     "runtime-main.js.map": "/dimon-web/static/js/runtime-main.88800d5e.js.map",
-    "static/js/2.9eeae818.chunk.js": "/dimon-web/static/js/2.9eeae818.chunk.js",
-    "static/js/2.9eeae818.chunk.js.map": "/dimon-web/static/js/2.9eeae818.chunk.js.map",
+    "static/js/2.14cb755d.chunk.js": "/dimon-web/static/js/2.14cb755d.chunk.js",
+    "static/js/2.14cb755d.chunk.js.map": "/dimon-web/static/js/2.14cb755d.chunk.js.map",
     "index.html": "/dimon-web/index.html",
-    "precache-manifest.0bca4a2f4c351d6b7fe4ea9cdd0baf7b.js": "/dimon-web/precache-manifest.0bca4a2f4c351d6b7fe4ea9cdd0baf7b.js",
+    "precache-manifest.2e504e20bccd173c4124b305a30b3d79.js": "/dimon-web/precache-manifest.2e504e20bccd173c4124b305a30b3d79.js",
     "service-worker.js": "/dimon-web/service-worker.js",
-    "static/css/main.6cc558b1.chunk.css.map": "/dimon-web/static/css/main.6cc558b1.chunk.css.map",
-    "static/js/2.9eeae818.chunk.js.LICENSE": "/dimon-web/static/js/2.9eeae818.chunk.js.LICENSE",
+    "static/css/main.52d36d32.chunk.css.map": "/dimon-web/static/css/main.52d36d32.chunk.css.map",
+    "static/js/2.14cb755d.chunk.js.LICENSE": "/dimon-web/static/js/2.14cb755d.chunk.js.LICENSE",
+    "static/media/Dimon_1.jpg": "/dimon-web/static/media/Dimon_1.10fa38c5.jpg",
+    "static/media/Dimon_10.jpg": "/dimon-web/static/media/Dimon_10.72e4db7f.jpg",
+    "static/media/Dimon_11.jpg": "/dimon-web/static/media/Dimon_11.5034909e.jpg",
+    "static/media/Dimon_2.jpg": "/dimon-web/static/media/Dimon_2.76b8a8cd.jpg",
+    "static/media/Dimon_3.jpg": "/dimon-web/static/media/Dimon_3.216fea21.jpg",
+    "static/media/Dimon_4.jpg": "/dimon-web/static/media/Dimon_4.05e83bc9.jpg",
+    "static/media/Dimon_5.jpg": "/dimon-web/static/media/Dimon_5.643bcced.jpg",
+    "static/media/Dimon_6.jpg": "/dimon-web/static/media/Dimon_6.cba8a92c.jpg",
+    "static/media/Dimon_7.jpg": "/dimon-web/static/media/Dimon_7.b63e566c.jpg",
+    "static/media/Dimon_8.jpg": "/dimon-web/static/media/Dimon_8.a09dedf2.jpg",
+    "static/media/Dimon_9.jpg": "/dimon-web/static/media/Dimon_9.ee69445e.jpg",
     "static/media/dimon-main.jpeg": "/dimon-web/static/media/dimon-main.dafd9d40.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.88800d5e.js",
-    "static/js/2.9eeae818.chunk.js",
-    "static/css/main.6cc558b1.chunk.css",
-    "static/js/main.2ef1ee6c.chunk.js"
+    "static/js/2.14cb755d.chunk.js",
+    "static/css/main.52d36d32.chunk.css",
+    "static/js/main.580c6c94.chunk.js"
   ]
 }
