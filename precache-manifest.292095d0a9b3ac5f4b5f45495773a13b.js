@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd8f604a6a35ece309b024cec0b0138c",
+    "revision": "e999519457ffa166be22b1b9af155273",
     "url": "/dimon-web/index.html"
   },
   {
-    "revision": "4720361be487fb8c632e",
-    "url": "/dimon-web/static/css/main.52d36d32.chunk.css"
+    "revision": "70085f6c965478728f1d",
+    "url": "/dimon-web/static/css/main.947cfada.chunk.css"
   },
   {
     "revision": "aa6f8ee67920fb2a8e48",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dimon-web/static/js/2.14cb755d.chunk.js.LICENSE"
   },
   {
-    "revision": "4720361be487fb8c632e",
-    "url": "/dimon-web/static/js/main.e5ccdf0d.chunk.js"
+    "revision": "70085f6c965478728f1d",
+    "url": "/dimon-web/static/js/main.f99595a5.chunk.js"
   },
   {
     "revision": "18122dfba11fe26787d7",

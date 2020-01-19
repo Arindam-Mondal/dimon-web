@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dimon-web/static/css/main.52d36d32.chunk.css",
-    "main.js": "/dimon-web/static/js/main.e5ccdf0d.chunk.js",
-    "main.js.map": "/dimon-web/static/js/main.e5ccdf0d.chunk.js.map",
+    "main.css": "/dimon-web/static/css/main.947cfada.chunk.css",
+    "main.js": "/dimon-web/static/js/main.f99595a5.chunk.js",
+    "main.js.map": "/dimon-web/static/js/main.f99595a5.chunk.js.map",
     "runtime-main.js": "/dimon-web/static/js/runtime-main.88800d5e.js",
     "runtime-main.js.map": "/dimon-web/static/js/runtime-main.88800d5e.js.map",
     "static/js/2.14cb755d.chunk.js": "/dimon-web/static/js/2.14cb755d.chunk.js",
     "static/js/2.14cb755d.chunk.js.map": "/dimon-web/static/js/2.14cb755d.chunk.js.map",
     "index.html": "/dimon-web/index.html",
-    "precache-manifest.9d6513e20e38449bec2a550d009ada96.js": "/dimon-web/precache-manifest.9d6513e20e38449bec2a550d009ada96.js",
+    "precache-manifest.292095d0a9b3ac5f4b5f45495773a13b.js": "/dimon-web/precache-manifest.292095d0a9b3ac5f4b5f45495773a13b.js",
     "service-worker.js": "/dimon-web/service-worker.js",
-    "static/css/main.52d36d32.chunk.css.map": "/dimon-web/static/css/main.52d36d32.chunk.css.map",
+    "static/css/main.947cfada.chunk.css.map": "/dimon-web/static/css/main.947cfada.chunk.css.map",
     "static/js/2.14cb755d.chunk.js.LICENSE": "/dimon-web/static/js/2.14cb755d.chunk.js.LICENSE",
     "static/media/Dimon_1.jpeg": "/dimon-web/static/media/Dimon_1.31ad8be1.jpeg",
     "static/media/Dimon_10.jpeg": "/dimon-web/static/media/Dimon_10.1950f87e.jpeg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.88800d5e.js",
     "static/js/2.14cb755d.chunk.js",
-    "static/css/main.52d36d32.chunk.css",
-    "static/js/main.e5ccdf0d.chunk.js"
+    "static/css/main.947cfada.chunk.css",
+    "static/js/main.f99595a5.chunk.js"
   ]
 }
