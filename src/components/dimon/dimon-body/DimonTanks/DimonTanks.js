@@ -5,11 +5,13 @@ import DimonTankImages from './DimonTankImages'
 
 const DimonTanks = (props) => {
     return (
-        <div className="dimon-tanks container">
-            <div className="row tanks-heading"><font>Products</font></div>
-            <div className="row">
+        <div className="dimon-tanks">
+            <div className="row tanks-heading">
+                <div className="col-12"><font>Products</font></div>
+            </div>
+            <div className="row images">
                 {DimonTankImages.map((dimonTankImage) => {
-                    return <div className="col-4 col-md-2 dimon-tank-col"><DimonTank dimonImage={dimonTankImage.image} dimonTankColor={dimonTankImage.imageColor}/></div>
+                    return <div className="col-4 col-md-2 dimon-tank-col"><DimonTank dimonImage={dimonTankImage.image} dimonTankColor={dimonTankImage.imageColor} /></div>
                 })}
             </div>
         </div>
