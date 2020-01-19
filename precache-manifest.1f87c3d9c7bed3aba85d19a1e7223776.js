@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5eae0893167c0cc0a8262b692754372",
+    "revision": "ec6cf1234e72a3181236908afdc2ae77",
     "url": "/dimon-web/index.html"
   },
   {
